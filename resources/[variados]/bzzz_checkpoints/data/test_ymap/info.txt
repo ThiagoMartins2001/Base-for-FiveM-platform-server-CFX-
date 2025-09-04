@@ -1,0 +1,9 @@
+Are the props not working?
+Add the file "checkpoint_test_ymap_bzzz.ymap" to any stream folder on your server that is started and restart the server.
+
+Coords: 
+x = -1412
+y = -2312
+z = 12
+
+If the props are not spawned at these coordinates, you are starting the wrong resource or ytyp file.
